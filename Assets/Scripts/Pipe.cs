@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-public class Pipe : MonoBehaviour
+public class Pipe : Sounds
 {
 
     [SerializeField] private float Speed;
@@ -19,7 +19,8 @@ public class Pipe : MonoBehaviour
     {
         if (collision.TryGetComponent<Player>(out _))
         {
-            ScoreManager.Instance.SetScore();
+            ScoreManager.Instance.UpdateScore();
+            PlaySound(0, random: true);
         }
     }
 

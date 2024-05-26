@@ -5,19 +5,12 @@ using UnityEngine;
 public class DataManager : MonoBehaviour
 {
 
-    public static void SavePlayerData(PlayerData playerData)
+    public static void SavePlayerData(int bestScore)
     {
-        PlayerPrefs.SetInt("Score", playerData.score);
+        PlayerPrefs.SetInt("PlayerBestScore", bestScore);
         PlayerPrefs.Save();
     }
 
-    public static PlayerData LoadPlayerData()
-    {
-        PlayerData loadedData = new PlayerData();
-        loadedData.score = PlayerPrefs.GetInt("Score", 0);
-        return loadedData;
-    }
-
-
+    public static int LoadPlayerData() => PlayerPrefs.GetInt("PlayerBestScore", 0);
 
 }

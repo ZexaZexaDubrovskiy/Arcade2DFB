@@ -395,7 +395,6 @@
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Pipe.cs"
 "Assets/Scripts/Player.cs"
-"Assets/Scripts/PlayerData.cs"
 "Assets/Scripts/ScoreManager.cs"
 "Assets/Scripts/Spawner.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

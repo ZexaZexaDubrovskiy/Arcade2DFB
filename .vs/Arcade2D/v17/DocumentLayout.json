@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|d:\\unity projects\\playmarketgames\\games\\arcade2d\\assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|d:\\unity projects\\playmarketgames\\games\\arcade2d\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|d:\\unity projects\\playmarketgames\\games\\arcade2d\\assets\\scripts\\sounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|d:\\unity projects\\playmarketgames\\games\\arcade2d\\assets\\scripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5F035C-B51D-A067-0018-ED956C254CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Sounds.cs",
+              "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Sounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sounds.cs",
+              "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Sounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sounds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:37:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T12:39:26.049Z",
               "EditorCaption": ""
@@ -56,58 +61,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerData.cs",
-              "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\PlayerData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
-              "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\PlayerData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:05:53.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataManager.cs",
-              "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\DataManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DataManager.cs",
-              "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\DataManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DataManager.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:04:55.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScoreManager.cs",
-              "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\ScoreManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
-              "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\ScoreManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:35:13.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Pipe.cs",
               "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Pipe.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pipe.cs",
               "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Pipe.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pipe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T15:56:38.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Spawner.cs",
               "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
@@ -120,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\Unity projects\\PlayMarketGames\\Games\\Arcade2D\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAswDwAAAAvAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAzwDQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T16:56:57.325Z",
               "EditorCaption": ""

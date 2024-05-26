@@ -52,20 +52,4 @@ public class GameManager : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false;
     }
 
-
-
-    void SaveGameData()
-    {
-        PlayerData playerData = new PlayerData();
-        playerData.BestScore = ScoreManager.BestScore;
-        DataManager.SavePlayerData(playerData);
-    }
-
-    void LoadGameData()
-    {
-        PlayerData loadedData = DataManager.LoadPlayerData();
-        Debug.Log("Loaded player score: " + loadedData.BestScore);
-    }
-
-
 }

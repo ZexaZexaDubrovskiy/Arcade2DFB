@@ -9,29 +9,29 @@ public class ScoreManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI ScoreText;
     [SerializeField] private TextMeshProUGUI BestScoreText;
     public int score { get; set; }
-    //TODO сделать статик или записывать в файл
-    public static int BestScore { get; set; }
+    public int BestScore { get; set; }
+
 
     private void Start()
     {
         Instance = this;
+        BestScore = DataManager.LoadPlayerData();
+        UpdateBestScore();
     }
 
-    public void SetScore(int Value = 1)
+    public void UpdateScore()
     {
-        this.score += Value;
-        ScoreText.text = "Score: " + this.score.ToString();
-        SetBestScore();
+        score++;
+        UpdateScoreText(ScoreText, score);
     }
 
-    private void SetBestScore()
+    public void UpdateBestScore()
     {
-        if (score > BestScore)
-        {
-            BestScore = score;
-        }
-        BestScoreText.text = "Best score: " + BestScore.ToString();
-
+        BestScore = BestScore < score ? score : BestScore;
+        DataManager.SavePlayerData(BestScore);
+        UpdateScoreText(BestScoreText, BestScore);
     }
-    
+
+    private void UpdateScoreText(TextMeshProUGUI scoreTextMeshPro, int value) => scoreTextMeshPro.text = value.ToString();
 }
+
